@@ -1,0 +1,15 @@
+.container{
+    text-align: center;
+}
+.count{
+    font-size: 50px;
+}
+
+button{
+    height: 30px;
+    width: 80px;
+    border-radius: 20px;
+    border: none;
+    cursor: pointer;
+    
+}
